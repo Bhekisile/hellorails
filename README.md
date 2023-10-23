@@ -1,3 +1,3 @@
 # README
 
-This is an introduction to rails project. It has postgre database set up and run rails server in the browser.
+This is an introduction to the Rails project. It has a PostgreSQL database set up and runs a Rails server in the browser.
